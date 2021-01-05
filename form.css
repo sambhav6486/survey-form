@@ -1,0 +1,17 @@
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 40%;
+    border-radius: 50px;
+    min-width: 300px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: 'Bebas Neue', cursive;
+}
+.sub-heading{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
